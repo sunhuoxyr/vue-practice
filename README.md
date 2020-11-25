@@ -27,3 +27,12 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## git 
+
+强制更新当前分支
+```
+git push -u origin main -f  
+```
+
